@@ -37,8 +37,8 @@ Cloudflare Access • S3 publishing • Multi-worktree Git workflows
 
 ### 🎯 Professional Background
 
-Senior Manager, Technical Customer Success @ SUSE
-Leading enterprise cloud-native portfolios (Kubernetes, Rancher, Linux)  
-Focused on system maturity, scale models, and technical depth.
+- Senior Manager, Technical Customer Success @ SUSE
+- Leading enterprise cloud-native portfolios (Kubernetes, Rancher, Linux)  
+- Focused on system maturity, scale models, and technical depth.
 
 
