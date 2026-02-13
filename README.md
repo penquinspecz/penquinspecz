@@ -1,4 +1,4 @@
-# Hi 👋 I’m Chris
+# Howdy 🤠 I’m Chris
 
 A cloud-native Customer Success leader building production-grade systems on the side.
 
@@ -37,10 +37,8 @@ Cloudflare Access • S3 publishing • Multi-worktree Git workflows
 
 ### 🎯 Professional Background
 
-Senior Manager, Technical Customer Success  
+Senior Manager, Technical Customer Success @ SUSE
 Leading enterprise cloud-native portfolios (Kubernetes, Rancher, Linux)  
 Focused on system maturity, scale models, and technical depth.
 
----
 
-If you're building serious cloud-native systems — even outside traditional engineering roles — we should talk.
