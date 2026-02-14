@@ -28,13 +28,6 @@ A cloud-native Customer Success leader building production-grade systems on the 
 
 ---
 
-### 🛠 Technologies I work with
-
-Kubernetes • Docker • GitHub Actions • Python • SQLite  
-Cloudflare Access • S3 publishing • Multi-worktree Git workflows
-
----
-
 ### 🎯 Professional Background
 
 - Senior Manager, Technical Customer Success @ SUSE
