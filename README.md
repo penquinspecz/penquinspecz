@@ -7,8 +7,8 @@ A cloud-native Customer Success leader building production-grade systems on the 
 ### 🚀 What I’m building
 
 - 🧠 **SignalCraft / Job Intelligence Engine (JIE)**  
-  Deterministic, CNCF-aligned AI pipeline for first-party job aggregation and scoring  
-  Built for reproducibility, on-prem deployability, and enterprise-grade rigor.
+  Deterministic, last-mile-AI pipeline for first-party job aggregation and scoring.  
+  Built for reproducibility, hybrid deployability, and enterprise-grade rigor.
 
 - 🏗 Kubernetes-native workflows  
   CronJobs, immutable artifacts, run indexing, cost accounting, hardened ingress.
@@ -20,7 +20,7 @@ A cloud-native Customer Success leader building production-grade systems on the 
 
 ### 🧭 What I care about
 
-- Deterministic systems over "vibe coding"
+- Deterministic systems over vibe coding
 - Reproducible builds and CI discipline
 - Clear state contracts and invariants
 - On-prem + cloud-agnostic deployment posture
@@ -31,7 +31,7 @@ A cloud-native Customer Success leader building production-grade systems on the 
 ### 🎯 Professional Background
 
 - Senior Manager, Technical Customer Success @ SUSE
-- Leading enterprise cloud-native portfolios (Kubernetes, Rancher, Linux)  
-- Focused on system maturity, scale models, and technical depth.
+- Leading enterprise cloud-native portfolios 
+- Focused on system maturity, scale models, and ROI
 
 
