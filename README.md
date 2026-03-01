@@ -14,7 +14,7 @@ A cloud-native Customer Success leader building production-grade systems on the 
   CronJobs, immutable artifacts, run indexing, cost accounting, hardened ingress.
 
 - 🤖 Multi-model AI architecture  
-  ChatGPT (planning), Codex (execution), Gemini (architectural review)
+  Claude Code+GPT (planning), Codex (execution), Gemini (architectural review)
 
 ---
 
