@@ -10,10 +10,10 @@ A cloud-native Customer Success leader building production-grade systems on the 
   Deterministic, last-mile-AI pipeline for first-party job aggregation and scoring.  
   Built for reproducibility, hybrid deployability, and enterprise-grade rigor.
 
-- 🏗 Kubernetes-native workflows  
+- 🏗 **Kubernetes-native workflows**  
   CronJobs, immutable artifacts, run indexing, cost accounting, hardened ingress.
 
-- 🤖 Multi-model AI architecture  
+- 🤖 **Multi-model AI architecture**  
   Claude Code+GPT (planning), Codex (execution), Gemini (architectural review)
 
 ---
