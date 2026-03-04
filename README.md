@@ -7,20 +7,19 @@ A cloud-native Customer Success leader building production-grade systems on the 
 ### 🚀 What I’m building
 
 - 🧠 **SignalCraft / Job Intelligence Engine (JIE)**  
-  Deterministic, last-mile-AI pipeline for first-party job aggregation and scoring.  
-  Built for reproducibility, hybrid deployability, and enterprise-grade rigor.
+  Deterministic career intelligence platform — tracks job postings across marquee AI/tech companies, scores and classifies roles via a 23-archetype taxonomy, and surfaces hiring signals through a match UI and analytics layer. 
 
 - 🏗 **Kubernetes-native workflows**  
   CronJobs, immutable artifacts, run indexing, cost accounting, hardened ingress.
 
 - 🤖 **Multi-model AI architecture**  
-  Claude Code+GPT (planning), Codex (execution), Gemini (architectural review)
+  Claude Code+GPT (planning/arch), Codex (execution), Gemini (secondary arch review), Cursor (IDE/in-model use).
 
 ---
 
 ### 🧭 What I care about
 
-- Deterministic systems over vibe coding
+- Deterministic systems, not vibe coding
 - Reproducible builds and CI discipline
 - Clear state contracts and invariants
 - On-prem + cloud-agnostic deployment posture
