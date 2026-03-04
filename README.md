@@ -4,7 +4,7 @@ A cloud-native Customer Success leader building production-grade systems on the 
 
 ---
 
-### 🚀 What I’m building
+### What I’m building
 
 - **SignalCraft / Job Intelligence Engine (JIE)**  
   Deterministic career intelligence platform — tracks job postings across marquee AI/tech companies, scores and classifies roles via a 23-archetype taxonomy, and surfaces hiring signals through a match UI and analytics layer. 
@@ -17,7 +17,7 @@ A cloud-native Customer Success leader building production-grade systems on the 
 
 ---
 
-### 🧭 What I care about
+### What I care about
 
 - Deterministic systems, not vibe coding - AI is **always** last mile
 - Reproducible builds and CI discipline
@@ -27,7 +27,7 @@ A cloud-native Customer Success leader building production-grade systems on the 
 
 ---
 
-### 🎯 Professional Background
+### Professional Background
 
 - Senior Manager, Technical Customer Success @ SUSE
 - Leading enterprise cloud-native portfolios 
