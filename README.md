@@ -13,7 +13,7 @@ A cloud-native Customer Success leader building production-grade systems on the 
   CronJobs, immutable artifacts, run indexing, cost accounting, hardened ingress.
 
 - **Multi-model AI architecture**  
-  Claude Code (planning, architecture, execution), Codex (file generation), Gemini (secondary arch review), Cursor (IDE).
+  Claude Code (planning, steering, execution), Codex/GPT (execution, cross-steering), Gemini (secondary arch review), Cursor (IDE).
 
 ---
 
