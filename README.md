@@ -6,13 +6,13 @@ A cloud-native Customer Success leader building production-grade systems on the 
 
 ### What I'm building
 
-- **SignalCraft / Job Intelligence Engine (JIE)**  
-  Deterministic career intelligence platform — 85 providers, multi-archetype taxonomy with trust grammar, confidence tiers, and progressive disclosure. Flagship surfaces: Company Intelligence Card, Peer Set Intelligence, recurrence digests, watchlists, and alert rules. ~4,000 gate-passing tests, 5 active sectors (Frontier AI, AI Infrastructure, Cloud/Data, Fintech, Quant/Trading), v0.9.0 deployed on a self-hosted k3s Pi cluster.
+- **SignalCraft / Job Intelligence Engine (JIE)**
+  Deterministic career intelligence platform — **500+ governed providers**, multi-archetype taxonomy with trust grammar, confidence tiers, and progressive disclosure. Full lifecycle governance factory: provider admission state machines, drift detection, benchmark integrity controls, and source admissibility enforcement. Flagship surfaces: Company Intelligence Card, Peer Set Intelligence, recurrence digests, watchlists, and alert rules. **2,200+ gate-passing tests**, **5 active sectors** (Frontier AI, AI Infrastructure, Cloud/Data, Fintech, Quant/Trading), **v0.13.0** on a self-hosted k3s Pi cluster. Built across 16 phases with full CI discipline, PostgreSQL-native persistence, and domain-organized test architecture.
 
-- **Kubernetes-native workflows**  
+- **Kubernetes-native workflows**
   CronJobs, immutable artifacts, run indexing, cost accounting, hardened ingress.
 
-- **Multi-model AI architecture**  
+- **Multi-model AI architecture**
   Claude Code (planning, steering, execution), Codex/GPT (execution, cross-steering), Gemini (secondary arch review), Cursor (IDE).
 
 ---
@@ -30,5 +30,5 @@ A cloud-native Customer Success leader building production-grade systems on the 
 ### Professional Background
 
 - Senior Manager, Technical Customer Success @ SUSE
-- Leading enterprise cloud-native portfolios 
+- Leading enterprise cloud-native portfolios
 - Focused on system maturity, scale models, and ROI
