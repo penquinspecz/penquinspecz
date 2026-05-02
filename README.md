@@ -1,19 +1,20 @@
 # Howdy 🤠 I'm Chris
 
-A cloud-native Customer Success leader building production-grade systems on the side.
+A cloud-native Customer Success leader who builds production-grade systems in the gaps — CI discipline, determinism contracts, cattle > pets.
 
 ---
 
 ### What I'm building
 
-- **SignalCraft / Job Intelligence Engine (JIE)**
-  Deterministic career intelligence platform — **500+ governed providers**, multi-archetype taxonomy with trust grammar, confidence tiers, and progressive disclosure. Full lifecycle governance factory: provider admission state machines, drift detection, benchmark integrity controls, and source admissibility enforcement. Flagship surfaces: Company Intelligence Card, Peer Set Intelligence, recurrence digests, watchlists, and alert rules. **2,200+ gate-passing tests**, **5 active sectors** (Frontier AI, AI Infrastructure, Cloud/Data, Fintech, Quant/Trading), **v0.13.0** on a self-hosted k3s Pi cluster. Built across 16 phases with full CI discipline, PostgreSQL-native persistence, and domain-organized test architecture.
+**[Role Gauge](https://github.com/penquinspecz/SignalCraft)** — a deterministic hiring intelligence engine.
 
-- **Kubernetes-native workflows**
-  CronJobs, immutable artifacts, run indexing, cost accounting, hardened ingress.
+Three architectural bets that diverge from the market:
 
-- **Multi-model AI architecture**
-  Claude Code (planning, steering, execution), Codex/GPT (execution, cross-steering), Gemini (secondary arch review), Cursor (IDE).
+**1. Determinism as infrastructure.** The same inputs always produce the same outputs. `PYTHONHASHSEED=0`, `TZ=UTC`, snapshot-mode scraping, and a replay drift canary that validates dual-run consistency in CI. Every output is auditable. Every signal traces to a source artifact.
+
+**2. Rule-based classification, not ML.** A 23-archetype taxonomy that maps every job title to the same classification every time — explicitly, through versioned rules, not silently through model drift. ML only augments at last-mile.
+
+**3. Governed fleet, not a crawl.** 1,861 providers across 29 sectors aren't scraped — they're governed. The Company Intelligence Service (CIS) runs a 7-stage resolver chain (Wikidata → DBpedia → EDGAR → GitHub → Common Crawl) to keep every careers URL and ATS slug current, maintaining a migration history nobody else publishes. The Onboarding Healing Engine (OHE) auto-graduates stuck providers.
 
 ---
 
@@ -29,6 +30,6 @@ A cloud-native Customer Success leader building production-grade systems on the 
 
 ### Professional Background
 
-- Senior Manager, Technical Customer Success @ SUSE
+- Senior Manager, Technical Customer Success @ SUSE / Rancher
 - Leading enterprise cloud-native portfolios
 - Focused on system maturity, scale models, and ROI
