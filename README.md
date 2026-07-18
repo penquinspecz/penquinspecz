@@ -1,4 +1,4 @@
-# Howdy 🤠 I'm Chris
+# Howdy 🤠 
 
 A cloud-native Customer Success leader who builds production-grade systems in the gaps — CI discipline, determinism contracts, cattle > pets.
 
