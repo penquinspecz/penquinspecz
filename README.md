@@ -30,6 +30,6 @@ Three architectural bets that diverge from the market:
 
 ### Professional Background
 
-- Senior Manager, Technical Customer Success @ SUSE / Rancher
+- Senior Manager, Technical Customer Success (Linux/k8s/AI)
 - Leading enterprise cloud-native portfolios
 - Focused on system maturity, scale models, and ROI
