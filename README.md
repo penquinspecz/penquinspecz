@@ -1,12 +1,12 @@
 # Howdy 🤠 
 
-A cloud-native Customer Success leader who builds production-grade systems in the gaps — CI discipline, determinism contracts, cattle > pets.
+Cloud-native Customer Success leader who builds production-grade systems in the gaps — CI discipline, determinism contracts, cattle > pets.
 
 ---
 
 ### What I'm building
 
-**[Role Gauge](https://github.com/penquinspecz/SignalCraft)** — a deterministic hiring intelligence engine.
+**[RoleGauge](https://github.com/penquinspecz/SignalCraft)** — a deterministic hiring intelligence engine.
 
 Three architectural bets that diverge from the market:
 
