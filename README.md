@@ -1,4 +1,4 @@
-**Howdy** 🤠
+# **Howdy** 🤠
 
 I lead technical customer success (Linux, Kubernetes, AI) at an enterprise vendor. Off the clock I build and run production systems on bare-metal Kubernetes I own end to end.
 
@@ -15,7 +15,7 @@ I lead technical customer success (Linux, Kubernetes, AI) at an enterprise vendo
 
 ### RoleGauge — deterministic hiring intelligence
 
-Tracks 1,862 companies' job boards across 30 sectors and 9 ATS platforms.
+Tracks 1,862 companies' (scaling to 20k) job boards across 30 sectors and 9 ATS platforms.
 
 - **Governed, not scraped.** Every provider is under change control. A resolver chain (Wikidata → DBpedia → EDGAR → GitHub → Common Crawl) keeps careers URLs and ATS slugs current, and a healing engine recovers boards that rot out from under it. The result is a board-migration history nobody else publishes.
 - **Determinism enforced in Kubernetes, not in a test harness.** `PYTHONHASHSEED=0`, `TZ=UTC`, snapshot-mode scraping, and a replay-drift canary proving two runs of the same input agree.
@@ -26,8 +26,8 @@ Tracks 1,862 companies' job boards across 30 sectors and 9 ATS platforms.
 
 ## How I build
 
-**A green that cannot go red is not a gate.** Tests are proven to fail before they're trusted to pass. A count means nothing without its selection. A report describes the artifact, never the intent. Most of the hard bugs I find are caught by attacking the evidence, not the code.
+**AI is a tool, Determinism is a principle.** A green that cannot go red is not a gate... Tests are proven to fail before they're trusted to pass. Most of the hard bugs I find are caught by attacking the evidence, not the code; it's a beautiful world where smell now counts as much as code-vision.
 
-Built by specialised AI agent lanes over a strict hub-and-spoke bus, with one architect holding final call and an adversary on anything load-bearing, because an author is the worst reviewer of their own reasoning.
+Built by specialised AI agent lanes over a strict hub-and-spoke cross-harness bus, with an architect holding final call and an adverserial red-team code review framework, myself as operator and Chief Arch.
 
 Cattle, not pets. 🦦
