@@ -1,6 +1,6 @@
 **Howdy** 🤠
 
-I lead technical customer success (Linux, Kubernetes, AI) at an enterprise vendor. Off the clock I build and run **RoleGauge**, a deterministic hiring-intelligence engine tracking 1,862 companies' job boards across 30 sectors and 9 ATS platforms, on bare-metal Kubernetes I own end to end.
+I lead technical customer success (Linux, Kubernetes, AI) at an enterprise vendor. Off the clock I build and run **RoleGauge**, a deterministic hiring-intelligence engine tracking 1,862 companies' job boards (scaling to 20k) across 30 sectors and 9 ATS platforms, on bare-metal Kubernetes I own end to end.
 
 - **Governed, not scraped.** Every provider is under change control. A resolver chain (Wikidata → DBpedia → EDGAR → GitHub → Common Crawl) keeps careers URLs and ATS slugs current, and a healing engine recovers boards that rot out from under it. The result is a board-migration history nobody else publishes.
 - **Determinism enforced in Kubernetes, not in a test harness.** `PYTHONHASHSEED=0`, `TZ=UTC`, snapshot-mode scraping, and a replay-drift canary proving two runs of the same input agree.
