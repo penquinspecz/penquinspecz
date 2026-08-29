@@ -2,6 +2,8 @@
 
 I lead technical customer success (Linux, Kubernetes, AI) at an enterprise vendor. Off the clock I build and run production systems on bare-metal Kubernetes I own end to end.
 
+The instruments below ship under **[Land O’ Clusters](https://github.com/Land-o-Clusters)** — small, exacting, and made to show their work.
+
 ---
 
 ## Projects
@@ -12,6 +14,14 @@ I lead technical customer success (Linux, Kubernetes, AI) at an enterprise vendo
 - **<Contrarian claim>.** <The receipt. Evidence second, never first.>
 (3–5 bullets. Each bullet leads with a stance a stranger could repeat, then earns it.)
 -->
+
+### Floati — the fleet operating system for local coding agents (macOS)
+
+You're already running a fleet — an agent in Codex, two in Claude, one in OpenCode — and *you* are the bus, the scheduler, and the guy who checks whether anything died. Floati takes those jobs. **Released August 2026** as an early public cut: [Land-o-Clusters/floati](https://github.com/Land-o-Clusters/floati), source install, stdlib Python 3 — no dependency tree to audit.
+
+- **Cross-harness fleets are the whole point.** A Codex worker, a Claude reviewer, and an OpenCode scout in one orchestrated plan is a Tuesday — nodes register whatever harness they run in and share one bus, one board.
+- **Every hand-off is receipted.** Dispatch, messages, wakes — full provenance on the bus, so "what did the fleet actually do" is answered with evidence, not vibes. The truth guarantees are a published contract (`TRUTH-GUARANTEES.md`), not a tagline.
+- **Licensed to be forked honestly.** AGPL-3.0 product code; the interchange schemas and bundle specs are Apache-2.0 so other tools can speak bus without inheriting the copyleft.
 
 ### RoleGauge — deterministic hiring intelligence
 
@@ -30,7 +40,7 @@ A menu-bar city that meters every AI coding agent on your machine — usage, cos
 - **Zero telemetry is a build artifact, not a promise.** The release audit scans the binaries for network symbols and names every authorized exception in a public ledger; the only calls it ever makes are ones you enabled, to your own accounts, each visible in a live log. The category leader shipped crash telemetry under a "no telemetry" banner — we ship the audit script.
 - **It refuses to know things.** Unknown liveness renders *idle*, never *zombie*; unmeasurable spend renders absent, never $0.00; every absence states its reason. An instrument that can't return the other answer isn't one.
 - **Performance is the product.** Whole-fleet observability budgeted at <1% idle CPU against a published per-phase performance covenant, re-measured on a 16 GB real corpus at every gate — including the incident report that created the covenant. Popular incumbents idle at 10× the memory.
-- **kubectl energy, municipal soul.** `puddle top sessions` for your agent fleet, approve agent actions without leaving flow, jump to the exact terminal pane that asked — one instrument from notch to CLI, with a cross-harness agent bus on the roadmap. Also: the water your tokens drink is cited to primary sources, and the almond is real.
+- **kubectl energy, municipal soul.** `puddle top sessions` for your agent fleet, approve agent actions without leaving flow, jump to the exact terminal pane that asked — one instrument from notch to CLI — and the cross-harness agent bus from that roadmap grew up into Floati, above. Also: the water your tokens drink is cited to primary sources, and the almond is real.
 
 ---
 
@@ -38,6 +48,6 @@ A menu-bar city that meters every AI coding agent on your machine — usage, cos
 
 **AI is a tool, Determinism is a principle.** A green that cannot go red is not a gate... Tests are proven to fail before they're trusted to pass. Most of the hard bugs I find are caught by attacking the evidence, not the code; it's a beautiful world where smell now counts as much as code-vision.
 
-Built by specialised AI agent lanes over a strict hub-and-spoke cross-harness bus, with an architect holding final call and an adverserial red-team code review framework, myself as operator and Chief Arch.
+Built by specialised AI agent lanes over a strict hub-and-spoke cross-harness bus, with an architect holding final call and an adversarial red-team code review framework, myself as operator and Chief Arch.
 
 Cattle, not pets. 🦦
